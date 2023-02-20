@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Angel!
 <a href='https://twitter.com/Keyyderr/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a FullStack developer of Web Pages, Web Applications, etc. I always try to stay focused by programming anything. I like to learn new things, and keep them in practice.
 <br/>
 <br/>
 
