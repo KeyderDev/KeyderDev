@@ -36,6 +36,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/KeyderDev/github-stats-transparent'>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyderDev &theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyderDev &theme=radical)
 
 </a>
