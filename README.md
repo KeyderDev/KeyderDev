@@ -12,8 +12,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🔭 &nbsp; I’m currently working on **NaokiOnNet**
 - 🤝 &nbsp; I like walking, coffee, and music.
 - 🌱 &nbsp; I’m currently learning PHP; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 👨🏻‍💻 &nbsp; Interested in Cybersecurity and Networks.
+- 🎨 &nbsp; System administrator on Linux servers.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
