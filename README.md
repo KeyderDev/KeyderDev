@@ -8,7 +8,7 @@ I am a FullStack developer of Web Pages, Web Applications, etc. I always try to 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **NaokiOnNet**
+- 🔭 &nbsp; I’m currently working on **Discogram**
 - 🤝 &nbsp; I like walking, coffee, and music.
 - 🌱 &nbsp; I’m currently learning PHP; 
 - 👨🏻‍💻 &nbsp; Interested in Cybersecurity and Networks.
