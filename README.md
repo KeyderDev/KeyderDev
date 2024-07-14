@@ -17,6 +17,8 @@ I am a FullStack developer of Web Pages, Web Applications, etc. I always try to 
 <br>
 
 ### 🔨 Languages and Tools:
+<a href="https://laravel.com" target="_blank"><img align="left" alt="Laravel" height ="42px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg"></a>
+<a href="https://vuejs.org" target="_blank"><img align="left" alt="Vue.js" height ="42px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vue.js-Dark.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
